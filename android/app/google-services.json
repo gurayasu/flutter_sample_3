@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "168684004174",
+    "project_id": "photo-app-3b51f",
+    "storage_bucket": "photo-app-3b51f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168684004174:android:e4a24408357609c1a7741f",
+        "android_client_info": {
+          "package_name": "page.okto.photoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168684004174-pi6mapoeoc5h94a8c2mp0hl1for62t8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc49JE8-_KrF5smimVQuIcnE7mUnxT20A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168684004174-pi6mapoeoc5h94a8c2mp0hl1for62t8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168684004174-fsboa2l4hdsktdm6sfsgrb7fcqhcgc8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "page.okto.photoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

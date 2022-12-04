@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>168684004174-fsboa2l4hdsktdm6sfsgrb7fcqhcgc8q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.168684004174-fsboa2l4hdsktdm6sfsgrb7fcqhcgc8q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgM_beV0ZQyiWyjv33RcozU4KAiobULJA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>168684004174</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>page.okto.photoapp</string>
+	<key>PROJECT_ID</key>
+	<string>photo-app-3b51f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photo-app-3b51f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:168684004174:ios:c590d5625ee5eb7ea7741f</string>
+</dict>
+</plist>
